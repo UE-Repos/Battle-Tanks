@@ -7,3 +7,5 @@
 * BT181 - Battle Tank Overview
 * BT182 - Game Design Document (GDD)
 * BT183 - Setting Up a GitHub "Repo"
+* BT184 - Creating & Deleting Landscapes
+* BT185 - Landscape Setup & Scaling
