@@ -18,6 +18,7 @@
 * BT192 - Actors from Multiple Meshes
 * BT193 - Improved Models
 * BT194 - Configuring a Tank
+* BT195 - 3rd Person Camera Control
 
 
 
