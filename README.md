@@ -25,6 +25,6 @@
 * BT199 - UI Scale Box, Buttons & Mouse
 * BT200 - Controller Ready Navigation
 * BT201 - Creating Unreal Engine UI with UMG and C++
-
+* BT202 - Trial Packaging Your Game
 
 
