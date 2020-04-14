@@ -26,5 +26,6 @@
 * BT200 - Controller Ready Navigation
 * BT201 - Creating Unreal Engine UI with UMG and C++
 * BT202 - Trial Packaging Your Game
+* BT203 - Delegating to Components
 
 
