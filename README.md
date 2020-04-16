@@ -38,4 +38,5 @@
 * BT212 - Using DeprojectScreenToWorld
 * BT213 - Using LineTraceSingleByChannel()
 * BT214 - Unify Player & AI Aiming
+* BT215 - Create Default Sub Objects in C++
 
