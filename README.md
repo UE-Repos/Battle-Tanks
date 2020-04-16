@@ -28,5 +28,8 @@
 * BT202 - Trial Packaging Your Game
 * BT203 - Delegating to Components
 * BT204 - Using virtual and override
+* BT205 - Overloading and Polymorphism
+* BT206 - Virtual Functions and Vtables
+* BT207 - Creating an AI Controller Class
 
 
