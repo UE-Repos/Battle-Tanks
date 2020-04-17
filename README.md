@@ -42,3 +42,4 @@
 * BT216 - BlueprintCallable()
 * BT217 - SuggestProjectileVelocity()
 * BT218 - Predict Projectile Landing Point
+* BT219 - Using FRotators in Unreal
