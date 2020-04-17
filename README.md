@@ -43,3 +43,5 @@
 * BT217 - SuggestProjectileVelocity()
 * BT218 - Predict Projectile Landing Point
 * BT219 - Using FRotators in Unreal
+* BT220 - The C++ Compilation Process
+* BT221 - Using Forward Declarations
