@@ -41,4 +41,4 @@
 * BT215 - Create Default Sub Objects in C++
 * BT216 - BlueprintCallable()
 * BT217 - SuggestProjectileVelocity()
-
+* BT218 - Predict Projectile Landing Point
