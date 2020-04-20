@@ -50,3 +50,4 @@
 * BT224 - How to Report Bugs
 * BT225 - Using Clamp() to Limit Values
 * BT226 - Turret Rotation
+* BT227 - Turret Rotation Pt.2
