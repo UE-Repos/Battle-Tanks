@@ -58,3 +58,4 @@
 * BT232 - Using SpawnActor<>() to Spawn
 * BT233 - Projectile Movement Components
 * BT234 - Making AI Tanks Fire
+* BT235 - EditAnywhere vs EditDefaultsOnly
