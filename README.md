@@ -55,4 +55,4 @@
 * BT229 - Upgrading to Unreal 4.12
 * BT230 - A Note About The Movement Bug
 * BT231 - Working Round Awkward Bugs
-
+* BT232 - Using SpawnActor<>() to Spawn
