@@ -66,3 +66,5 @@
 * BT240 - Fly-by-Wire Control System
 * BT241 - Using BlueprintReadOnly
 * BT242 - A Better Component Architecture
+* BT243 - Completing Manual Tank Movement
+
