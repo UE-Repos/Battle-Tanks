@@ -67,4 +67,5 @@
 * BT241 - Using BlueprintReadOnly
 * BT242 - A Better Component Architecture
 * BT243 - Completing Manual Tank Movement
+* BT244 - Introducing AI Pathfinding
 
