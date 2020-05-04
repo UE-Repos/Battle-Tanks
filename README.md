@@ -70,3 +70,4 @@
 * BT244 - Introducing AI Pathfinding
 * BT245 - Dissecting RequestDirectMove()
 * BT246 - DotProduct() Vector Operator
+* BT247 - CrossProduct() Vector Operator
