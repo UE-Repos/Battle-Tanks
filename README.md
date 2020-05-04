@@ -69,3 +69,4 @@
 * BT243 - Completing Manual Tank Movement
 * BT244 - Introducing AI Pathfinding
 * BT245 - Dissecting RequestDirectMove()
+* BT246 - DotProduct() Vector Operator
