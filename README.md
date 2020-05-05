@@ -73,3 +73,4 @@
 * BT247 - CrossProduct() Vector Operator
 * BT248 - Finalizing Your Class Code
 * BT249 - How to Use Blueprint Variables
+* BT250 - Using Enum(erations) in UE4
