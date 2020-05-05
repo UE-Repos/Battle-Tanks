@@ -71,3 +71,4 @@
 * BT245 - Dissecting RequestDirectMove()
 * BT246 - DotProduct() Vector Operator
 * BT247 - CrossProduct() Vector Operator
+* BT248 - Finalizing Your Class Code
