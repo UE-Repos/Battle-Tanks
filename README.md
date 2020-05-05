@@ -75,3 +75,4 @@
 * BT249 - How to Use Blueprint Variables
 * BT250 - Using Enum(erations) in UE4
 * BT251 - Refactoring our Aiming Component
+* BT252 - Attaching a Debugger to Unreal
