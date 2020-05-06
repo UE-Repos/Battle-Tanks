@@ -78,4 +78,5 @@
 * BT252 - Attaching a Debugger to Unreal
 * BT253 - Constructor & Begin Play Timing
 * BT254 - Decoupling Your Architecture
+* BT255 - BlueprintImplementableEvent
 
