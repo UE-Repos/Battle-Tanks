@@ -79,4 +79,5 @@
 * BT253 - Constructor & Begin Play Timing
 * BT254 - Decoupling Your Architecture
 * BT255 - BlueprintImplementableEvent
+* BT256 - Using the ensure Assertion
 
