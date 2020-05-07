@@ -80,4 +80,5 @@
 * BT254 - Decoupling Your Architecture
 * BT255 - BlueprintImplementableEvent
 * BT256 - Using the ensure Assertion
+* BT257 - Dependency Mapping
 
