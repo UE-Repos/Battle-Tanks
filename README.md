@@ -81,4 +81,6 @@
 * BT255 - BlueprintImplementableEvent
 * BT256 - Using the ensure Assertion
 * BT257 - Dependency Mapping
+* BT258 - Talking Head - Real World Skills
+* BT259 - Starting From Green
 
